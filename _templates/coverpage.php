@@ -12,7 +12,7 @@
                                         <p>Looking for a quality and affordable Constructor For Your Next Project</br></p>
                                     </div>
                                     <a href="products" class="theme-btn">Our Products</a> 
-                                    <a href="https://www.youtube.com/embed/ychdAPBGvQU" class="youtube video-btn"  data-type="iframe" tabindex="0"><img src="assets/images/slider/youtube.png" alt=""></a> 
+                                    <a href="https://www.youtube.com/embed/ychdAPBGvQU" class="youtube video-btn"  data-type="iframe" tabindex="0"><img src="assets/images/slider/youtube.png"></a> 
                                 </div>
                             </div>
                         </div>

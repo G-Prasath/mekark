@@ -138,7 +138,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                             {?>
                                 <div class="item">
                                     <a href=<?php echo $image ?> data-lightbox="mygallery" data-title="First-Image">
-                                        <img src=<?php echo $image ?> alt="Mountain reflection on lake">
+                                        <img src=<?php echo $image ?> alt="Mekark Pressure Parts Equipment Accessories">
                                     </a>
                                 </div>
                             <?php

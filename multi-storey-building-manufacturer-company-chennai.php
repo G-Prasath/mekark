@@ -92,7 +92,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                     <p>A Multi-storey steel building is a structure with more than one level, designed using steel as the primary building material for its frame, columns, beams, and other structural components. Multi-storey steel buildings are often used in industrial and residential applications because of their strength, durability, and flexibility in design. Steel structures are also lightweight, which can result in significant savings in foundation costs and can be erected quickly, reducing construction time. These buildings can be designed to accommodate a wide range of loads and are fire-resistant, making them suitable for applications where safety is a concern. It gives more time and money when compared to civil buildings.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="assets/images/scroll-bar/products/multi-story-steel-building.png" alt="">
+                    <img src="assets/images/scroll-bar/products/multi-story-steel-building.png" alt="Multi-Storey Building Manufacturer Company Chennai - Mekark"="Multi-Storey Building Manufacturer Company Chennai - Mekark">
                 </div>
             </div>
         </div>
@@ -140,23 +140,23 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Commercial-(Malls).png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Mssb/Commercial-(Malls).png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Commercial (Malls, Marriage halls etc.,)</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Institutional.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Mssb/Institutional.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Institutional</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Special-Customized-structures.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Mssb/Special-Customized-structures.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Special Customized structures</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Hospitals.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Mssb/Hospitals.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Hospitals</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Offices.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Mssb/Offices.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Offices</a></h4>
                     </div>
                 </div>
@@ -187,7 +187,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                             {?>
                                 <div class="item">
                                     <a href=<?php echo $image ?> data-lightbox="mygallery" data-title="First-Image">
-                                        <img src=<?php echo $image ?> alt="Mountain reflection on lake">
+                                        <img src=<?php echo $image ?> alt="Multi-Storey Building Manufacturer Company Chennai - Mekark">
                                     </a>
                                 </div>
                             <?php

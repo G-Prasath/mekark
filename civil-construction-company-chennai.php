@@ -95,7 +95,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="row">
                 <div class="col-md-6">
                     <div class="res-img">
-                        <img src="assets/images/products/residential.png" alt="" class="img-fluid">
+                        <img src="assets/images/products/residential.png" alt="Building Civil Construction Company Chennai - Mekark" class="img-fluid">
                     </div>
                 </div>
 
@@ -150,7 +150,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                 </div>
                 <div class="col-md-6">
                     <div class="res-img">
-                        <img src="assets/images/products/commercial.png" alt="" class="img-fluid">
+                        <img src="assets/images/products/commercial.png" alt="Building Civil Construction Company Chennai - Mekark"="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -171,7 +171,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="row">
                 <div class="col-md-6">
                     <div class="res-img">
-                        <img src="assets/images/products/industrial.png" alt="" class="img-fluid">
+                        <img src="assets/images/products/industrial.png" alt="Building Civil Construction Company Chennai - Mekark"="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -234,7 +234,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                             {?>
                                 <div class="item">
                                     <a href=<?php echo $image ?> data-lightbox="mygallery" data-title="First-Image">
-                                        <img src=<?php echo $image ?> alt="Mountain reflection on lake">
+                                        <img src=<?php echo $image ?> alt="Building Civil Construction Company Chennai - Mekark">
                                     </a>
                                 </div>
                             <?php

@@ -101,7 +101,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                 </div>
                 <div class="col-md-6">
                     <div class="warehouse-scroll">
-                        <img src="assets/images/scroll-bar/products/warehuse-shed.png" alt="">
+                        <img src="assets/images/scroll-bar/products/warehuse-shed.png" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
                     </div>
                 </div>
             </div>
@@ -122,23 +122,23 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/food-processing-industry.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/warehouse/food-processing-industry.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
                         <h4><a href="#">Food processing industries</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/manufacturig-industruy.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/warehouse/manufacturig-industruy.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
                         <h4><a href="#">Manufacturing industries</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/import-and-exprt-commercial-organization.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/warehouse/import-and-exprt-commercial-organization.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
                         <h4><a href="#">Import and export commercial organizations</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/pharmaceutical.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/warehouse/pharmaceutical.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
                         <h4><a href="#">Pharmaceutical industries</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/Bulk-storage-of-goods.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/warehouse/Bulk-storage-of-goods.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
                         <h4><a href="#">Bulk storage of goods</a></h4>
                     </div>
                 </div>
@@ -169,7 +169,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                             {?>
                                 <div class="item">
                                     <a href=<?php echo $image ?> data-lightbox="mygallery" data-title="First-Image">
-                                        <img src=<?php echo $image ?> alt="Mountain reflection on lake">
+                                        <img src=<?php echo $image ?> alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
                                     </a>
                                 </div>
                             <?php

@@ -115,7 +115,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
         </div>
 
         <div class="col-md-6">
-            <img src="assets/images/scroll-bar/products/mlcp.png" alt="">
+            <img src="assets/images/scroll-bar/products/mlcp.png" alt="Multi Level Car Parking System Manufacturer Company Chennai - Mekark">
         </div>
     
     </div>
@@ -128,7 +128,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="row">
                 <div class="col-md-6">
                     <div class="mlcp-scroll">
-                        <img src="assets/images/scroll-bar/products/revolutionizing-parking-sollution.png" alt="">
+                        <img src="assets/images/scroll-bar/products/revolutionizing-parking-sollution.png" alt="Multi Level Car Parking System Manufacturer Company Chennai - Mekark">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -169,23 +169,23 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/mlcp/hospital.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/mlcp/hospital.png" class="img-fluid" alt="Multi Level Car Parking System Manufacturer Company Chennai - Mekark">
                         <h4><a href="#">Hospitals</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/mlcp/hotel.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/mlcp/hotel.png" class="img-fluid" alt="Multi Level Car Parking System Manufacturer Company Chennai - Mekark">
                         <h4><a href="#">Hotels</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/mlcp/itpark.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/mlcp/itpark.png" class="img-fluid" alt="Multi Level Car Parking System Manufacturer Company Chennai - Mekark">
                         <h4><a href="#">IT Park</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/mlcp/Stadium.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/mlcp/Stadium.png" class="img-fluid" alt="Multi Level Car Parking System Manufacturer Company Chennai - Mekark">
                         <h4><a href="#">Sports Stadium</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/mlcp/Tourist-sector.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/mlcp/Tourist-sector.png" class="img-fluid" alt="Multi Level Car Parking System Manufacturer Company Chennai - Mekark">
                         <h4><a href="#">Tourism Sector</a></h4>
                     </div>
                 </div>
@@ -215,7 +215,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                             {?>
                                 <div class="item">
                                     <a href=<?php echo $image ?> data-lightbox="mygallery" data-title="First-Image">
-                                        <img src=<?php echo $image ?> alt="Mountain reflection on lake">
+                                        <img src=<?php echo $image ?> alt="Multi Level Car Parking System Manufacturer Company Chennai - Mekark">
                                     </a>
                                 </div>
                             <?php

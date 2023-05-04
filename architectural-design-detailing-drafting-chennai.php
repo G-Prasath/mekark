@@ -99,7 +99,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
         </div>
         <div class="col-md-6">
             <div class="arch-design">
-                <img src="assets/images/products/Architech-design.png" alt="" class="img-fluid">
+                <img src="assets/images/products/Architech-design.png" alt="Architectural Design, Detailing and Drafting Services - Mekark" class="img-fluid">
             </div>
         </div>
     </div>
@@ -132,15 +132,15 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Architechture_app/design.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Architechture_app/design.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Design</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Architechture_app/detail-drafting.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Architechture_app/detail-drafting.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Detailing and Drafting</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Architechture_app/3d.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Architechture_app/3d.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">3D Visualization</a></h4>
                     </div>
                 </div>
@@ -165,7 +165,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <div class="row">
         <div class="col-md-6">
             <div class="design-img">
-                <img src="assets/images/products/Bim.png" alt="" class="img-fluid">
+                <img src="assets/images/products/Bim.png" alt="Architectural Design, Detailing and Drafting Services - Mekark" class="img-fluid">
             </div>
         </div>
 
@@ -197,7 +197,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
         </div>
         <div class="col-md-6">
             <div class="design-img">
-                <img src="assets/images/products/civil-and-structural-desingn.png" alt="" class="img-fluid">
+                <img src="assets/images/products/civil-and-structural-desingn.png" alt="Architectural Design, Detailing and Drafting Services - Mekark" class="img-fluid">
             </div>
         </div>
     </div>
@@ -217,23 +217,23 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/civil/civil-and-structural.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/civil/civil-and-structural.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Civil and Structural Design</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/civil/rcc-detailing.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/civil/rcc-detailing.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">RCC Detailing</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/civil/Structural-steel-building.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/civil/Structural-steel-building.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Structural Steel Detailing</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/civil/Shop-drawings.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/civil/Shop-drawings.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Shop Drawings</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/civil/modeling.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/civil/modeling.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Modelling</a></h4>
                     </div>
                 </div>
@@ -247,7 +247,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <div class="row">
         <div class="col-md-6">
             <div class="design-img">
-                <img src="assets/images/products/mepdesign.png" alt="" class="img-fluid">
+                <img src="assets/images/products/mepdesign.png" alt="Architectural Design, Detailing and Drafting Services - Mekark" class="img-fluid">
             </div>
         </div>
         <div class="col-md-6">
@@ -274,15 +274,15 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Architechture_app/design.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Architechture_app/design.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Design</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Architechture_app/detail-drafting.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Architechture_app/detail-drafting.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Detailing and Drafting</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Architechture_app/3d.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Architechture_app/3d.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">3D Visualization</a></h4>
                     </div>
                 </div>
@@ -302,7 +302,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 
         <div class="col-md-6">
             <div class="design-img">
-                <img src="assets/images/products/peb.png" alt="" class="img-fluid">
+                <img src="assets/images/products/peb.png" alt="Architectural Design, Detailing and Drafting Services - Mekark" class="img-fluid">
             </div>
         </div>
     </div>
@@ -322,19 +322,19 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/peb/peb-design.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/peb/peb-design.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Pre-Engineered Building Design</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/peb/peb-detail-and-drafting.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/peb/peb-detail-and-drafting.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Pre-Engineered Building Detailing and Drafting</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/peb/peb-shop-drawings.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/peb/peb-shop-drawings.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Pre-Engineered Building Shop Drawings</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/peb/modeling.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/peb/modeling.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Modelling</a></h4>
                     </div>
                 </div>
@@ -348,7 +348,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <div class="row">
         <div class="col-md-6">
             <div class="design-img">
-                <img src="assets/images/products/project-management-service.png" alt="" class="img-fluid">
+                <img src="assets/images/products/project-management-service.png" alt="Architectural Design, Detailing and Drafting Services - Mekark" class="img-fluid">
             </div>
         </div>
         <div class="col-md-6">
@@ -375,23 +375,23 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Project management/plainging.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Project management/plainging.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Planning</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Project management/resource-management.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Project management/resource-management.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Resource Management</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Project management/cost-control.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Project management/cost-control.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Cost Control</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Project management/risk-management.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Project management/risk-management.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Risk Management</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Design/Project management/excution.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/Design/Project management/excution.png" class="img-fluid" alt="Architectural Design, Detailing and Drafting Services - Mekark">
                         <h4><a href="#">Execution</a></h4>
                     </div>
                 </div>
@@ -421,7 +421,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                             {?>
                                 <div class="item">
                                     <a href=<?php echo $image ?> data-lightbox="mygallery" data-title="First-Image">
-                                        <img src=<?php echo $image ?> alt="Mountain reflection on lake">
+                                        <img src=<?php echo $image ?> alt="Architectural Design, Detailing and Drafting Services - Mekark">
                                     </a>
                                 </div>
                             <?php
@@ -540,8 +540,6 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 
     </div>
     <!-- end of page-wrapper -->
-
-
 
     <!-- All JavaScript files
     ================================================== -->

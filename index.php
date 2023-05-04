@@ -17,7 +17,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 </script>
 			<!-- End Google Analytics opt-out snippet added by Site Kit -->
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <meta name="google-site-verification" content="rAR_zUhuNvAl7JlZMsxLNFSyu6LjvFxhoRmk9LWLOnI" />
         <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
     <title>Industrial Manufacturing Company Chennai - Mekark</title>

@@ -107,7 +107,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
         </div>
         <div class="col-md-6">
             <div class="mep-sec">
-                <img src="assets/images/products/mep-design-detail.png" alt="" class="img-fluid">
+                <img src="assets/images/products/mep-design-detail.png" alt="MEP Consultant, MEP Contractors - Mekark" class="img-fluid">
             </div>
         </div>
     </div>
@@ -117,7 +117,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <div class="row">
         <div class="col-md-6">
             <div class="mep-sec">
-                <img src="assets/images/products/hvac.png" alt="" class="img-fluid">
+                <img src="assets/images/products/hvac.png" alt="MEP Consultant, MEP Contractors - Mekark" class="img-fluid">
             </div>
         </div>
         <div class="col-md-6">
@@ -136,7 +136,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
         </div>
         <div class="col-md-6">
             <div class="mep-sec">
-                <img src="assets/images/products/firefightingdesigndetailservices.png" alt="" class="img-fluid">
+                <img src="assets/images/products/firefightingdesigndetailservices.png" alt="MEP Consultant, MEP Contractors - Mekark" class="img-fluid">
             </div>
         </div>
     </div>
@@ -164,7 +164,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                             {?>
                                 <div class="item">
                                     <a href=<?php echo $image ?> data-lightbox="mygallery" data-title="First-Image">
-                                        <img src=<?php echo $image ?> alt="Mountain reflection on lake">
+                                        <img src=<?php echo $image ?> alt="MEP Consultant, MEP Contractors - Mekark">
                                     </a>
                                 </div>
                             <?php

@@ -14,7 +14,7 @@
                         <div class="blog-grids">
                             <div class="grid">
                                 <div class="entry-media">
-                                    <img src="assets/images/blog/img-1.jpg" alt>
+                                    <img src="assets/images/blog/img-1.jpg" alt="Industrial Manufacturing Company Chennai - Mekark">
                                 </div>
                                 <div class="entry-body">
                                     <div class="cats">Industry, Factory</div>
@@ -25,7 +25,7 @@
                             </div>
                             <div class="grid">
                                 <div class="entry-media">
-                                    <img src="assets/images/blog/img-2.jpg" alt>
+                                    <img src="assets/images/blog/img-2.jpg" alt="Industrial Manufacturing Company Chennai - Mekark">
                                 </div>
                                 <div class="entry-body">
                                     <div class="cats">Industry, Factory</div>
@@ -36,7 +36,7 @@
                             </div>
                             <div class="grid">
                                 <div class="entry-media">
-                                    <img src="assets/images/blog/img-3.jpg" alt>
+                                    <img src="assets/images/blog/img-3.jpg" alt="Industrial Manufacturing Company Chennai - Mekark">
                                 </div>
                                 <div class="entry-body">
                                     <div class="cats">Industry, Factory</div>

@@ -112,7 +112,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                 </div>
                 <div class="col-md-6">
                     <div class="peb-scroll">
-                        <img src="assets/images/scroll-bar/products/peb-building-manufacturing.png" alt="" />
+                        <img src="assets/images/scroll-bar/products/peb-building-manufacturing.png" alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark"="Pre-Engineered Building Manufacturer Company Chennai - Mekark" />
                     </div>
                 </div>
             </div>
@@ -132,35 +132,35 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/peb/Factories,-Warehouses,-Workshops.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/peb/Factories,-Warehouses,-Workshops.png" class="img-fluid" alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Factories, Warehouses, Workshops</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/peb/Gas-Stations.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/peb/Gas-Stations.png" class="img-fluid" alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Gas Stations</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/peb/Show-Rooms.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/peb/Show-Rooms.png" class="img-fluid" alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Show Rooms</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/peb/Air-Craft-Hangers.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/peb/Air-Craft-Hangers.png" class="img-fluid" alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Air Craft Hangers</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/peb/Metro-Stations.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/peb/Metro-Stations.png" class="img-fluid" alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Metro Stations</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/peb/Vehicle-Parking-Sheds.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/peb/Vehicle-Parking-Sheds.png" class="img-fluid" alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Vehicle Parking Sheds</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/peb/school-Roofs.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/peb/school-Roofs.png" class="img-fluid" alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Schools, Indoor Stadium Roofs</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/peb/Bridges-,-Railway-platform-Shelters.png" class="img-fluid" alt="">
+                        <img src="assets/images/app-icon/peb/Bridges-,-Railway-platform-Shelters.png" class="img-fluid" alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark"="">
                         <h4><a href="#">Bridges, Railway platform Shelters</a></h4>
                     </div>
                 </div>
@@ -190,7 +190,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                             {?>
                                 <div class="item">
                                     <a href=<?php echo $image ?> data-lightbox="mygallery" data-title="First-Image">
-                                        <img src=<?php echo $image ?> alt="Mountain reflection on lake">
+                                        <img src=<?php echo $image ?> alt="Pre-Engineered Building Manufacturer Company Chennai - Mekark">
                                     </a>
                                 </div>
                             <?php
