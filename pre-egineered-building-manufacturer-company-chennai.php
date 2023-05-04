@@ -100,10 +100,15 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
-                    <h2 class="design-h2">
+                <div class="col-md-12">
+                <h2 class="design-h2">
                     Mekark Pre-Engineered Building Manufacturer offering
                     </h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    
                     <p><span class="p-bold">Construction time:</span> PEB reduces the total construction cost by the least 40% which leads to faster occupancy and early revenue.</p>
                     <p><span class="p-bold">Lower cost:</span> Saving is accomplished in design, manufacturing and erection cost.</p>
                     <p><span class="p-bold">Large clear span:</span> In PEB the buildings can be given up to 90m clear spans which is the important advantage of PEB with column free space.</p>

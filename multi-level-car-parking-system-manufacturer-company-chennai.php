@@ -155,8 +155,8 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             </div>
         </div>
 
-        <!-- start service-section -->
-        <section class="service-section services-pg-section">
+<!-- start service-section -->
+<section class="service-section services-pg-section">
     <div class="container">
         <div class="row">
         <div class="col col-md-12">

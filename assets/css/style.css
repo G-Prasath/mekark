@@ -878,10 +878,11 @@ img {
   text-align: center;
 }
 .peb-scroll > img{
-  margin: 30px 0px;
+  /* margin: 30px 0px; */
+  margin-bottom: 30px;
 }
 .mssb{
-  background: url("../images/cover-pages/multistoreybuilding.jpg") center center/cover no-repeat local;
+  background: url("../images/cover-pages/multistoreybuilding.png") center center/cover no-repeat local;
   width: 100%;
   height: 430px;
   position: relative;
@@ -3578,7 +3579,7 @@ margin-top: -130px;
 
 @media (max-width: 1199px) {
   .service-section .service-grids .grid {
-    padding: 40px 35px;
+    padding: 10px 35px;
   }
 }
 
@@ -3591,7 +3592,7 @@ margin-top: -130px;
 @media (max-width: 767px) {
   .service-section .service-grids .grid {
     width: calc(50% - 15px);
-    padding: 30px 20px;
+    padding: 1px 20px;
     margin: 0 7.5px 15px;
   }
 }
@@ -3621,7 +3622,7 @@ margin-top: -130px;
 .service-section .service-grids h4 {
   font-size: 18px;
   font-size: 1.125rem;
-  margin: 1em 0;
+  /* margin: 1em 0; */
 }
 
 @media (max-width: 767px) {
@@ -3690,7 +3691,7 @@ margin-top: -130px;
 }
 
 .services-pg-section {
-  padding-bottom: 37px;  /*TODO*/
+  padding-bottom: 1px;  /*TODO*/
 }
 
 @media (max-width: 991px) {
@@ -4036,7 +4037,6 @@ margin-top: -130px;
 }
 .design-grid > img{
   width: 70px;
-  padding-bottom: 25px;
 }
 .design-grid > h4 > a{
   font-size: 14px;

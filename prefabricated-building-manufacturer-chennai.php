@@ -105,7 +105,57 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
         </div>
         <!-- ------------ Content End -------->
 
-
+<!-- start service-section -->
+<section class="service-section services-pg-section">
+    <div class="container">
+        <div class="row">
+        <div class="col col-md-12">
+                <div>
+                    <h2 class="text-center" style="color:#e69c5c">Applications</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-xs-12">
+                <div class="service-grids clearfix">
+                    <div class="grid design-grid">
+                        <img src="assets/images/app-icon/pre-fab/Labor-Accommodation.png" class="img-fluid" alt="Prefabiricate-Structure">
+                        <h4><a href="#">Labor Accommodation</a></h4>
+                    </div>
+                    <div class="grid design-grid">
+                        <img src="assets/images/app-icon/pre-fab/Modular-Buildings.png" class="img-fluid" alt="Prefabiricate-Structure">
+                        <h4><a href="#">Modular Buildings</a></h4>
+                    </div>
+                    <div class="grid design-grid">
+                        <img src="assets/images/app-icon/pre-fab/Temporary-office.png" class="img-fluid" alt="Prefabiricate-Structure">
+                        <h4><a href="#">Temporary Office</a></h4>
+                    </div>
+                    <div class="grid design-grid">
+                        <img src="assets/images/app-icon/pre-fab/Guest-House.png" class="img-fluid" alt="Prefabiricate-Structure">
+                        <h4><a href="#">Guest House</a></h4>
+                    </div>
+                    <div class="grid design-grid">
+                        <img src="assets/images/app-icon/pre-fab/Porta-Cabins.png" class="img-fluid" alt="Prefabiricate-Structure">
+                        <h4><a href="#">Porta Cabins</a></h4>
+                    </div>
+                    <div class="grid design-grid">
+                        <img src="assets/images/app-icon/pre-fab/equipment-housing.png" class="img-fluid" alt="Prefabiricate-Structure">
+                        <h4><a href="#">Equipment Housing</a></h4>
+                    </div>
+                    <div class="grid design-grid">
+                        <img src="assets/images/app-icon/pre-fab/office-cabins.png" class="img-fluid" alt="Prefabiricate-Structure">
+                        <h4><a href="#">Office Cabinss</a></h4>
+                    </div>
+                    <div class="grid design-grid">
+                        <img src="assets/images/app-icon/pre-fab/Skyscrapers.png" class="img-fluid" alt="Prefabiricate-Structure">
+                        <h4><a href="#">Skyscrapers</a></h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- end container -->
+</section>
+<!-- end service-section -->
 
 
         <!-- ------ Start Gallery ----------->
