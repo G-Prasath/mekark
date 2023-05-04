@@ -8,7 +8,7 @@
                                 <div data-swiper-parallax="500" class="slide-btns video-holder">
                                     <div class="fist-slide">
                                         <p>MEKARK</br></p>
-                                        <p>STRUCTURE INDIA PVT LTD</br></p>
+                                        <p>STRUCTURES INDIA PVT LTD</br></p>
                                         <p>Looking for a quality and affordable Constructor For Your Next Project</br></p>
                                     </div>
                                     <a href="products" class="theme-btn">Our Products</a> 
