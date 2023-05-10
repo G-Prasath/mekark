@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="irstheme">
 
-        <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
     <title> Dustech - Industry & Factory HTML Template </title>
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

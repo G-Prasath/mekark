@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Mekark Storage Parts Equipment Accessories</title>
 <meta name="description" content=" Mekark Storage Parts Equipment Accessories in Chennai." />
 <meta name="keywords" content="Storage Parts Equipment Accessories, Storage Parts, Equipment Accessories, Mekark, Chennai" />
-<link rel="canonical" href="https://www.mekark.com/storage-parts-equipment-accessories.php" />
+<link rel="canonical" href="https://www.mekark.com/storage-parts-equipment-accessories/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Prefabricated Building Manufacturer in Chennai- Mekark</title>
 <meta name="description" content=" Mekark is the Innovative Prefabricated Building Manufacturer Solutions for Residential and Commercial Needs." />
 <meta name="keywords" content="Prefabricated Building Manufacturer, Prefabricated Building Manufacturer in Chennai, Prefabricated Structure, Prefabricated Building, Mekark, Chennai" />
-<link rel="canonical" href="https://www.mekark.com/prefabricated-building-manufacturer-chennai.php" />
+<link rel="canonical" href="https://www.mekark.com/prefabricated-building-manufacturer-chennai/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

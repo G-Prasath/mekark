@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Building Civil Construction Company Chennai - Mekark</title>
     <meta name="description" content="Mekark is one of the trusted Civil construction company in chennai, wide range of Construction Services for Resdential, Commercial and Industrial Sectors." />
     <meta name="keywords" content="Building Civil Construction Company Chennai, Building Civil Construction Company, Civil Construction Company Chennai, Civil Construction, Mekark" />
-    <link rel="canonical" href="https://www.mekark.com/civil-construction-company-chennai.php" />
+    <link rel="canonical" href="https://www.mekark.com/civil-construction-company-chennai/" />
 
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">

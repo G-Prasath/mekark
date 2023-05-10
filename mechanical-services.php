@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Mekark Mechanical System Design Services</title>
 <meta name="description" content=” Mekark offers mechanical system design services for optimal performance and energy efficiency. Our expert team ensures reliable solutions for residential and commercial properties.” />
 <meta name="keywords" content=" Mekark Mechanical System Design Services, Mechanical System, Mekark, Chennai" />
-<link rel="canonical"  href="https://www.mekark.com/mechanical-services.php" />
+<link rel="canonical"  href="https://www.mekark.com/mechanical-services/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

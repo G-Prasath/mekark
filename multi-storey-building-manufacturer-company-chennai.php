@@ -23,7 +23,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Multi-Storey Building Manufacturer Company Chennai - Mekark</title>
     <meta name="description" content=" Mekark Multi-storey building manufacturing solutions offer innovative and sustainable options for Industrial construction projects." />
     <meta name="keywords" content=" Multi-Storey Building Manufacturer Company Chennai, Multi-Storey Building Manufacturer Company Chennai, Multi-Storey Building Manufacturer, Multi-Storey Building, Mekark, Chennai" />
-    <link rel="canonical" href="https://www.mekark.com/multi-storey-building-manufacturer-company-chennai.php" />
+    <link rel="canonical" href="https://www.mekark.com/multi-storey-building-manufacturer-company-chennai/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

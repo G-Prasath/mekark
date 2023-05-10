@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Mekark Plumbing  System Design Services</title>
 <meta name="description" content=” Mekark provides professional plumbing system design services for residential and commercial properties. Our expert team ensures efficient and reliable solutions.” />
 <meta name="keywords" content=" Mekark Plumbing System Design Services, Plumbing System, Mekark, Chennai" />
-<link rel="canonical"  href="https://www.mekark.com/plumbing-system-design-services.php" />
+<link rel="canonical"  href="https://www.mekark.com/plumbing-system-design-services/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

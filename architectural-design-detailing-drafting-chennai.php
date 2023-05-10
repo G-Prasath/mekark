@@ -23,7 +23,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Architectural Design, Detailing and Drafting Services - Mekark</title>
     <meta name="description" content=" Mekark is one of the trusted Civil construction company in chennai, wide range of Construction Services for Resdential, Commercial and Industrial Sectors." />
     <meta name="keywords" content=" Architectural Design, Detailing and Drafting Services, Architectural Design, Architectural Detailing Services, Mekark " />
-    <link rel="canonical" href="https://www.mekark.com/architectural-design-detailing-drafting-chennai.php" />
+    <link rel="canonical" href="https://www.mekark.com/architectural-design-detailing-drafting-chennai/" />
 
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">

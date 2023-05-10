@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Multi Level Car Parking System Manufacturer Company Chennai - Mekark</title>
 <meta name="description" content="Mekark is one of the Multi Level Car Parking System Manufacturer Company in Chennai, offering innovative and space-saving solutions for parking needs in urban areas." />
 <meta name="keywords" content=" Multi Level Car Parking System Manufacturer Company, Multi Level Car Parking System Manufacturer Company, Multi Level Car Parking System, Mekark, Chennai" />
-<link rel="canonical" href="https://www.mekark.com/multi-level-car-parking-system-manufacturer-company-chennai.php" />
+<link rel="canonical" href="https://www.mekark.com/multi-level-car-parking-system-manufacturer-company-chennai/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

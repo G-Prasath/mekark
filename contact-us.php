@@ -23,7 +23,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <meta name="description" content="Get a free quote please contact Mekark, 15, First Floor, 62nd street,
     Ashok Nagar, Chennai - 600083. Call/Whatsapp: 97909 24754, E-mail: admin@mekark.com." />
     <meta name="keywords" content="Mekark Contact us, Chennai" />
-    <link rel="canonical" href="https://www.mekark.com/contact-us.php" />
+    <link rel="canonical" href="https://www.mekark.com/contact-us/" />
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">

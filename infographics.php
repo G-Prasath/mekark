@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Mekark infographics</title>
     <meta name="description" content="Mekark's infographics offers visually engaging content that highlights the benefits of prefabricated building solutions. Explore our designs and get more!" />
     <meta name="keywords" content="infographics, Mekark, Chennai" />
-    <link rel="canonical" href="https://www.mekark.com/infographics.php" />
+    <link rel="canonical" href="https://www.mekark.com/infographics/" />
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">

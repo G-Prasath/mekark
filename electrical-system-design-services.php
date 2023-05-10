@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Mekark Electrical System Design Services</title>
 <meta name="description" content=” Mekark offers comprehensive electrical system design services for residential and commercial properties. Our expert team ensures safe and reliable solutions.” />
 <meta name="keywords" content=" Mekark Electrical System Design Services, Electrical System, Mekark, Chennai" />
-<link rel="canonical"  href="https://www.mekark.com/electrical-system-design-services.php" />
+<link rel="canonical"  href="https://www.mekark.com/electrical-system-design-services/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

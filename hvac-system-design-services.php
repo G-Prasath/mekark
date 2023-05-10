@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Mekark HVAC  System Design Services</title>
 <meta name="description" content=” Mekark offers HVAC system design services to ensure efficient and effective heating, ventilation, and air conditioning for residential and commercial spaces.” />
 <meta name="keywords" content=" Mekark HVAC System Design Services, HVAC System, Mekark, Chennai" />
-<link rel="canonical" href="https://www.mekark.com/hvac-system-design-services.php" />
+<link rel="canonical" href="https://www.mekark.com/hvac-system-design-services/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

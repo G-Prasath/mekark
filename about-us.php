@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Mekark Industrial Company About us Overview</title>
     <meta name="description" content=" Mekark will certainly make your participation very positive manner one by giving a group of well experienced, polite and professional people to serve your requirements." />
     <meta name="keywords" content=" Mekark Industrial Company About us Overview , Mekark Industrial Company About us , Mekark Industrial Company " />
-    <link rel="canonical" href="https://www.mekark.com/about-us.php" />
+    <link rel="canonical" href="https://www.mekark.com/about-us/" />
 
         <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
     <title> Dustech - Industry & Factory HTML Template </title>

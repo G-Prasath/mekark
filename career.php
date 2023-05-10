@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title>Mekark Career</title>
     <meta name="description" content="Join the Mekark team and be a part of our mission to provide innovative, sustainable, and cost-effective prefabricated building solutions. Apply now!" />
     <meta name="keywords" content="Career, Mekark, Chennai" />
-    <link rel="canonical" href="https://www.mekark.com/career.php" />
+    <link rel="canonical" href="https://www.mekark.com/career/" />
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">

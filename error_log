@@ -132,3 +132,17 @@ Stack trace:
 [02-May-2023 04:46:29 UTC] PHP Notice:  Undefined variable: message in /home/aquin123/public_html/mekark.com/career-mail.php on line 36
 [02-May-2023 05:30:49 UTC] PHP Notice:  Undefined variable: message in /home/aquin123/public_html/mekark.com/career-mail.php on line 36
 [03-May-2023 16:49:23 UTC] PHP Notice:  Undefined index: hostemail in /home/aquin123/public_html/mekark.com/mail.php on line 25
+[08-May-2023 08:54:06 UTC] PHP Notice:  Undefined index: hostemail in /home/aquin123/public_html/mekark.com/mail.php on line 25
+[09-May-2023 11:12:53 UTC] PHP Notice:  Undefined index: email in /home/aquin123/public_html/mekark.com/career-mail.php on line 26
+[09-May-2023 11:12:53 UTC] PHP Notice:  Undefined index: role in /home/aquin123/public_html/mekark.com/career-mail.php on line 28
+[09-May-2023 11:12:53 UTC] PHP Notice:  Undefined index: name in /home/aquin123/public_html/mekark.com/career-mail.php on line 36
+[09-May-2023 11:12:53 UTC] PHP Notice:  Undefined variable: message in /home/aquin123/public_html/mekark.com/career-mail.php on line 36
+[09-May-2023 11:12:53 UTC] PHP Notice:  Undefined index: email in /home/aquin123/public_html/mekark.com/career-mail.php on line 37
+[09-May-2023 11:12:53 UTC] PHP Notice:  Undefined index: phone in /home/aquin123/public_html/mekark.com/career-mail.php on line 38
+[09-May-2023 11:12:53 UTC] PHP Notice:  Undefined index: msg in /home/aquin123/public_html/mekark.com/career-mail.php on line 40
+[09-May-2023 11:12:53 UTC] PHP Notice:  Undefined index: resume in /home/aquin123/public_html/mekark.com/career-mail.php on line 45
+[09-May-2023 11:12:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aquin123/public_html/mekark.com/career-mail.php on line 45
+[09-May-2023 11:12:53 UTC] PHP Notice:  Undefined index: resume in /home/aquin123/public_html/mekark.com/career-mail.php on line 46
+[09-May-2023 11:12:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aquin123/public_html/mekark.com/career-mail.php on line 46
+[09-May-2023 11:12:53 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/aquin123/public_html/mekark.com/career-mail.php on line 51
+[10-May-2023 03:41:25 UTC] PHP Notice:  Undefined variable: message in /home/aquin123/public_html/mekark.com/career-mail.php on line 36

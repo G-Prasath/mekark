@@ -22,7 +22,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <title> Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark</title>
 <meta name="description" content=" Mekark is a leading warehouse shed manufacturer in Chennai. We specialize in providing customized shed solutions for a variety of purposes." />
 <meta name="keywords" content="Warehouse Shed Manufacturer in Chennai, Warehouse Shed Contractors in Chennai, Warehouse Shed Contractors , Warehouse Shed Manufacturer, Mekark, Chennai" />
-<link rel="canonical" href="https://www.mekark.com/warehouse-shed-manufacturer-chennai.php" />
+<link rel="canonical" href="https://www.mekark.com/warehouse-shed-manufacturer-chennai/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">
