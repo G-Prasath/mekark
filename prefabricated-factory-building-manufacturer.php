@@ -18,12 +18,12 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 			<!-- End Google Analytics opt-out snippet added by Site Kit -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="google-site-verification" content="rAR_zUhuNvAl7JlZMsxLNFSyu6LjvFxhoRmk9LWLOnI" />
-        <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
-    <title>Multi-Storey Building Manufacturer Company Chennai - Mekark</title>
-    <meta name="description" content=" Mekark Multi-storey building manufacturing solutions offer innovative and sustainable options for Industrial construction projects." />
-    <meta name="keywords" content=" Multi-Storey Building Manufacturer Company Chennai, Multi-Storey Building Manufacturer Company Chennai, Multi-Storey Building Manufacturer, Multi-Storey Building, Mekark, Chennai" />
-    <link rel="canonical" href="https://www.mekark.com/multi-storey-building-manufacturer-company-chennai/" />
+<meta name="google-site-verification" content="rAR_zUhuNvAl7JlZMsxLNFSyu6LjvFxhoRmk9LWLOnI" />
+<link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+<link rel="canonical" href="https://www.mekark.com/prefabricated-factory-building-manufacturer"/>
+<title> Prefabricated Factory Buildings Manufacturer | Mekark  </title> 
+<meta name="description" content="Mekark Prefabricated Factory Buildings Manufacturer and Supplier provide factory steel building, modular metal factory building in India."/>
+<meta name="keywords" content="Prefabricated Factory Buildings Manufacturer, Prefabricated Factory Buildings, Prefabricated Factory Shed Buildings Manufacturer, Prefabricated Factory Shed Buildings Manufacturer"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">
@@ -63,11 +63,11 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 
 
         <!-- start page-title -->
-        <section class="page-title mssb">
+        <section class="page-title factory-buildings-cover">
             <div class="container">
                 <div class="row">
                     <div class="col col-xs-12">
-                        <h1>Multi-Storey Steel Building</h1>
+                        <h1>Factory Buildings</h1>
                     </div>
                 </div> <!-- end row -->
             </div> <!-- end container -->
@@ -79,7 +79,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="https://www.mekark.com/" style="color:#db9b66">Home</a></li>
             <li class="breadcrumb-item"><a href="products.php" style="color:#db9b66">Products</a></li>
-            <li class="breadcrumb-item">Multi-Storey Steel Building</li>
+            <li class="breadcrumb-item">Factory Buildings</li>
           </ol>
         </nav>
         <!-- ---------- Breadcurm -------->
@@ -87,12 +87,17 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
         <!-- block-1 -->
         <div class="container">
             <div class="row">
+                <div class="col-md-12">
+                    <h2 class="design-h2">Cost-effective and Efficiency Factory building</h2>
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-md-6">
-                    <h2 class="design-h2">Innovative Solutions for Multi-Storey Building Manufacturer</h2>
-                    <p>A Multi-storey steel building is a structure with more than one level, designed using steel as the primary building material for its frame, columns, beams, and other structural components. Multi-storey steel buildings are often used in industrial and residential applications because of their strength, durability, and flexibility in design. Steel structures are also lightweight, which can result in significant savings in foundation costs and can be erected quickly, reducing construction time. These buildings can be designed to accommodate a wide range of loads and are fire-resistant, making them suitable for applications where safety is a concern. It gives more time and money when compared to civil buildings.</p>
+                    <p>A factory building is a type of industrial facility designed for the manufacture of goods or products. It is typically a large, single-story structure that houses machinery, assembly lines, and storage areas. The building is designed to be functional, efficient, and safe, with features such as high ceilings, wide-open floor space, and loading docks to accommodate the movement of goods and materials. Factory buildings can be used for a variety of manufacturing processes, including electronics, automotive, textiles and food production.</p>
+                    <p>A sustainable factory building can be both cost-effective and efficient, with features such as renewable energy sources, rainwater harvesting, and green roofs. These features can help reduce energy and water consumption, as well as lower utility bills. The efficient factory building should be designed and constructed with an emphasis on sustainability, efficiency, and modern technology. Cost-effective and efficient factory buildings are essential for businesses looking to maximize productivity and profitability. Mekark is the best preferred choice of Factory shed manufacturer and suppliers in industrial construction these days.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="assets/images/scroll-bar/products/multi-story-steel-building.png" alt="Multi-Storey Building Manufacturer Company Chennai - Mekark"="Multi-Storey Building Manufacturer Company Chennai - Mekark">
+                    <img src="assets/images/scroll-bar/products/factorybuilding-scrollbar.jpg" alt="Multi-Storey Building Manufacturer Company Chennai - Mekark">
                 </div>
             </div>
         </div>
@@ -101,26 +106,19 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p>Steel structures are getting much more popular as a choice of construction for High-rise buildings. Choosing steel to structure a multi-storey building is to pick a material that offers ease, quality, sturdiness, plan adaptability, versatility and recyclability. Likewise, it implies picking substantial mechanical items that arrive in a gigantic scope of shapes and hues; it implies quick site establishment and less vitality utilization. It means deciding to focus on the standards of manageability. Endlessly recyclable, steel is the material that mirrors the objectives of the supportable turn of events. Selecting steel implies picking a more exceptional opportunity for the development of engineering. It means infusing style into the structures and the urban areas of tomorrow. Steel gives numerous points of interest to the planner for the structure of a multi-storey building: large traverses are conceivable. A steel building is lighter than a conventional structure.</p>
-                    <h2 class="design-h2">Creating standard buildings - Mekark Manufacturer Services</h2>
-                    <p>Mekark is a leading Manufacturer of multi-storey Steel Buildings Solutions in Chennai, offering customized and durable steel building solutions that are cost-effective and sustainable. We are providing unique solutions for special needs to meet the needs of our customers. With our many years of experience in the industry, Our Expert Team provide to customers with the best service and support.</p>
+                    <p>Our Mekark design of the factory building should be optimized for efficiency, with an emphasis on minimizing waste, reducing energy consumption, and maximizing workflow. An experienced architect team can help design a building that meets these criteria while still being aesthetically pleasing. Mekark provide of turnkey solutions for Factory shed building, including design, fabrication, manufacture and installation.</p>
+                    <p>At Mekark Company, we pride ourselves on providing our customers with exceptional quality products and outstanding customer service. We are committed to delivering glasswool panels that meet the highest standards of quality and performance, ensuring that our customers receive the best value for their investment.</p>
+                    <p>Whether you are a builder, contractor, or homeowner, Mekark Company can provide you with the high-quality glasswool panels you need to improve energy efficiency, reduce noise pollution, and enhance comfort in any building project. Contact us today to get a quote about our products estimate.</p>
 
-                    <h2 class="design-h2">Makark's multi-storey steel buildings offer several benefits including</h2>
+                    <h2 class="design-h2">Why to choose Mekark Factory shed building manufacturer?</h2>
                     <ul  class="about-cnt" style="list-style-type: disc;">
-                        <li>Steel is a strong and durable material that can withstand harsh weather conditions and resist corrosion, ensuring the building's longevity.</li>
+                        <li>Mekark Factory building sheds are typically more cost-effective than traditional brick-and-mortar buildings, as they require less construction time and labor. Additionally Our team can be designed to be energy-efficient, reducing operational costs over time.</li>
 
-                        <li>Steel structures offer design flexibility, allowing for customization of building dimensions, shape, and layout to suit specific requirements.</li>
+                        <li>Glass wool insulation also provides effective sound absorption, reducing noise pollution and improving the acoustic performance of a space.</li>
 
-                        <li>Steel structures can be erected quickly, reducing construction time and associated costs.</li>
+                        <li>Mekark Factory building sheds can be constructed quickly, allowing businesses to begin operations sooner than with traditional buildings.</li>
 
-                        <li>Steel structures can be more cost-effective than traditional construction methods, as they require less material, labor, and foundation costs.</li>
-
-                        <li>Steel is a recyclable material, making it an eco-friendly option for construction. Additionally, steel buildings can incorporate energy-efficient features, reducing energy consumption and associated costs.</li>
-
-                        <li>Steel structures offer excellent fire resistance and can withstand high winds, earthquakes, and other natural disasters, providing a safe and secure environment for occupants.</li>
-
-                        <li>Steel structures require minimal maintenance, reducing the overall cost of ownership over the building's life.</li>
-
+                        <li>Mekark offer businesses a versatile, cost-effective, and durable solution for their manufacturing needs. We can be customized to meet specific requirements and constructed quickly and easily, allowing businesses to start operations sooner and respond to changes in demand.</li>
                     </ul>
                 </div>
             </div>
@@ -140,24 +138,24 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="col col-xs-12">
                 <div class="service-grids clearfix">
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Commercial-(Malls).png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
-                        <h4><a href="#">Commercial (Malls, Marriage halls etc.,)</a></h4>
+                        <img src="assets/images/app-icon/factory-buildings/Factory-production-plants.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
+                        <h4><a href="#">Factory production plants</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Institutional.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
-                        <h4><a href="#">Institutional</a></h4>
+                        <img src="assets/images/app-icon/factory-buildings/Industrial-enclosures.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
+                        <h4><a href="#">Industrial enclosures</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Special-Customized-structures.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
-                        <h4><a href="#">Special Customized structures</a></h4>
+                        <img src="assets/images/app-icon/factory-buildings/Warehouses.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
+                        <h4><a href="#">Warehouses</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Hospitals.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
-                        <h4><a href="#">Hospitals</a></h4>
+                        <img src="assets/images/app-icon/factory-buildings/Testing-facilities.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
+                        <h4><a href="#">Testing facilities</a></h4>
                     </div>
                     <div class="grid design-grid">
-                        <img src="assets/images/app-icon/Mssb/Offices.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
-                        <h4><a href="#">Offices</a></h4>
+                        <img src="assets/images/app-icon/factory-buildings/prefab.png" class="img-fluid" alt="Multi-Storey Building Manufacturer Company ChennaiIndustrial Manufacturing Company India - Mekark">
+                        <h4><a href="#">Prefabricated manufacturing centers</a></h4>
                     </div>
                 </div>
             </div>
@@ -182,7 +180,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                         <div class="own-gallery">
                         <?php
                         
-                            $images = glob("assets/images/gallery/products/multi-storey-building" . "/*.jpg");
+                            $images = glob("assets/images/gallery/products/factory-buildings" . "/*.jpg");
                             foreach($images as $image)
                             {?>
                                 <div class="item">
@@ -282,7 +280,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                 <div class="row">
                     <div class="col col-lg-6 col-md-6">
                         <div class="cta-text">
-                            <h3>Looking for Multi-Storey Building</h3>
+                            <h3>Looking for Factory Buildings</h3>
                         </div>
                     </div>
                     <div class="col col-lg-5 col-lg-offset-1 col-md-6">

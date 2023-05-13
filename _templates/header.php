@@ -5,7 +5,7 @@
                         <div class="col col-sm-9">
                             <div class="contact-info">
                                 <ul>
-                                    <li><i class="ti-email"></i> admin@mekark.com</li>
+                                    <li><i class="ti-email"></i><a href="mailto:admin@mekark.com">admin@mekark.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -48,14 +48,15 @@
                             <li class="menu-item-has-children">
                                 <a href="products">Products</a>
                                 <ul class="sub-menu">
-                                    <li>
-                                        <a href="pre-egineered-building-manufacturer-company-chennai">Pre-Engineered Building</a>
-                                    </li>
+                                    <li><a href="pre-egineered-building-manufacturer-company-chennai">Pre-Engineered Building</a></li>
+                                    <li><a href="warehouse-shed-manufacturer-chennai">Warehouse Shed </a></li>
+                                    <li><a href="peb-industrial-shed-supplier">Industrial Shed</a></li>
+                                    <li><a href="prefabricated-factory-building-manufacturer">Factory Buildings</a></li>
+                                    <li><a href="industrial-enclosures-acoustic-manufacturer">Industrial Enclosures</a></li>
                                     <li><a href="multi-storey-building-manufacturer-company-chennai">Multi-Storey Steel Building</a></li>
                                     <li><a href="mep-consultant-chennai">MEP</a></li>
                                     <li><a href="civil-construction-company-chennai">Civil Construction</a></li>
                                     <li><a href="architectural-design-detailing-drafting-chennai">Design Services</a></li>
-                                    <li><a href="prefabricated-building-manufacturer-chennai">Prefabricated Structure</a></li>
                                     <li><a href="multi-level-car-parking-system-manufacturer-company-chennai">Multi Level Car Parking System</a></li>
                                 </ul>
                             </li>

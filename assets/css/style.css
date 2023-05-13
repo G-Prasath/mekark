@@ -881,6 +881,27 @@ img {
   /* margin: 30px 0px; */
   margin-bottom: 30px;
 }
+.industrial-shed-cover{
+  background: url("../images/cover-pages/industrial-shed.jpg") center center/cover no-repeat local;
+  width: 100%;
+  height: 430px;
+  position: relative;
+  text-align: center;
+}
+.industrial-enclosure-cover{
+  background: url("../images/cover-pages/industrialencosure-coverpage.jpg") center center/cover no-repeat local;
+  width: 100%;
+  height: 430px;
+  position: relative;
+  text-align: center;
+}
+.factory-buildings-cover{
+  background: url("../images/cover-pages/factorybuilding-coverpage.jpg") center center/cover no-repeat local;
+  width: 100%;
+  height: 430px;
+  position: relative;
+  text-align: center;
+}
 .mssb{
   background: url("../images/cover-pages/multistoreybuilding.png") center center/cover no-repeat local;
   width: 100%;
@@ -2482,7 +2503,11 @@ img {
 .header-style-3 .topbar .contact-info {
   float: right;
 }
-
+.contact-info > ul > li > a{
+  text-decoration: none;
+  color: #fff;
+  padding-left: 4px;
+}
 @media (max-width: 767px) {
   .header-style-2 .topbar .contact-info, .header-style-3 .topbar .contact-info {
     float: none;

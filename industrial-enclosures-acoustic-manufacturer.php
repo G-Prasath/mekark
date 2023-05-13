@@ -17,12 +17,13 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 </script>
 			<!-- End Google Analytics opt-out snippet added by Site Kit -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <meta name="google-site-verification" content="rAR_zUhuNvAl7JlZMsxLNFSyu6LjvFxhoRmk9LWLOnI" />
 <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
-<title> Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark</title>
-<meta name="description" content=" Mekark is a leading warehouse shed manufacturer in Chennai. We specialize in providing customized shed solutions for a variety of purposes." />
-<meta name="keywords" content="Warehouse Shed Manufacturer in Chennai, Warehouse Shed Contractors in Chennai, Warehouse Shed Contractors , Warehouse Shed Manufacturer, Mekark, Chennai" />
-<link rel="canonical" href="https://www.mekark.com/warehouse-shed-manufacturer-chennai/" />
+<link rel="canonical" href="https://www.mekark.com/industrial-enclosures-acoustic-manufacturer"/>
+<title>Industrial Enclosures Acoustic Manufacturer | Mekark Prefab  </title> 
+<meta name="description" content="Mekark is the best Industrial Enclosures Acoustic manufacturer and supplier offer deliver high quality industrial enclosure solutions."/>
+<meta name="keywords" content="Industrial Enclosures Acoustic Manufacturer, Industrial Enclosures Acoustic Supplier India, Mekark"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">
@@ -38,12 +39,15 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
     <link href="assets/css/owl.transitions.css" rel="stylesheet">
     <link href="assets/css/jquery.fancybox.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
+
     <!-- -------- Light Box ---------- -->
     <link rel="stylesheet" href="assets/css/lightbox.min.css">
     <script type="text/javascript" src="assets/js/lightbox-plus-jquery.min.js"></script>
 
     <!-- -------------- Font Awesome Icons ---------------------->
     <?php include_once '_templates/head.php' ?>
+
+    
 
 </head>
 
@@ -59,94 +63,68 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
         <!-- Start header -->
         <?php include_once '_templates/header.php' ?>
         <!-- end of header -->
-
-
+        
         <!-- start page-title -->
-        <section class="page-title warehouse">
+        <section class="page-title industrial-enclosure-cover">
             <div class="container">
                 <div class="row">
                     <div class="col col-xs-12">
-                        <h1>Warehouse Shed Constructions</h1>
+                        <h1>Industrial Enclosures</h1>
                     </div>
                 </div> <!-- end row -->
             </div> <!-- end container -->
         </section>        
         <!-- end page-title -->
-
         <!-- ----- Breadcurm --------->
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="https://www.mekark.com/" style="color:#db9b66">Home</a></li>
             <li class="breadcrumb-item"><a href="products.php" style="color:#db9b66">Products</a></li>
-            <li class="breadcrumb-item">Warehouse Shed Constructions</li>
+            <li class="breadcrumb-item">Industrial Enclosures</li>
           </ol>
         </nav>
         <!-- ---------- Breadcurm -------->
 
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h2 class="design-h2">
-                    Choosing the Perfect Warehouse Shed for Your Business
-                    </h2>
-                    <p>A Warehouse shed is a standalone structure that is designed to provide additional storage space for a variety of items. It typically consists of a metal or steel frame with walls and a roof and can be customized to suit the specific needs of a business or organization. Warehouse sheds are commonly used to store inventory, equipment, machinery, and other items that need to be protected from the elements. They can be found in a variety of industries, including manufacturing, logistics, agriculture and construction. Warehouse sheds are often designed to be easy to assemble and disassemble, making them a flexible and cost-effective solution for businesses that require extra storage space.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6">
-                   <p>
-                   Mekark Structure Pvt Ltd specializes in providing high-quality warehouse shed solutions. Our experienced team of experts can design and construct sheds in a variety of sizes, styles and materials to meet your needs. We provide custom-made designs and can build sheds to fit any space. Our sheds are designed to be durable and easy to maintain, making them ideal for long-term storage needs. We also offer a wide range of additional services, including on-site storage, space rental, and warehouse management. With our competitive pricing and exceptional customer service, you can be sure that you'll get the best shed for your needs.
-                   </p> 
-                   <p>Mekark is a full-service provider of Prefabricated Warehouse Shed solutions. We offer custom-made designs that can fit any space, and a wide range of additional services such as on-site storage, space rental, and warehouse management. Our experienced team of experts can design and construct sheds in various sizes, styles and materials to meet your needs. We guarantee quality, durability, and easy-to-maintain sheds that are perfect for long-term storage needs. With our competitive pricing and exceptional customer service, you can be sure that you'll get the best shed solution to meet your needs.</p>
-                </div>
-                <div class="col-md-6">
-                    <div class="warehouse-scroll">
-                        <img src="assets/images/scroll-bar/products/warehuse-shed.png" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
-                    </div>
-                </div>
+        <!-- ---------- Start Section -------->
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Cost Effective and Safe for Industrial Equipment</h2>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <p>Industrial Enclosures are typically metal enclosures designed to protect equipment, machinery and electronics from a range of hazards, including dust, debris, moisture and electromagnetic interference. It is commonly used in industries such as manufacturing, automation, telecommunications, and transportation. Industrial enclosures come in a variety of shapes and sizes and can be designed to accommodate a range of equipment and machinery, including control panels, servers and electrical cabinets.</p>
+            <p>Mekark is the top industrial enclosures manufacturer and supplier in India. It is a versatile solution for protecting equipment and machinery from a range of hazards and controlling access to sensitive equipment. They are used in various industries, including manufacturing, telecommunications, transportation, and automation, and can be customized to meet the specific needs of the equipment being housed. Mekark prefab is a leading manufacturer and supplier of industrial enclosures, offering high-quality solutions designed to protect equipment and machinery from environmental hazards and unauthorized access.</p>
+        </div>
+        <div class="col-md-6">
+            <div>
+                <img src="assets/images/scroll-bar/products/industrialencosure-scrollpage.jpg" alt="MEP Consultant, MEP Contractors - Mekark" class="img-fluid">
             </div>
         </div>
+    </div>
+</div>
 
-
-<!-- start service-section -->
-<section class="service-section services-pg-section">
-    <div class="container">
-        <div class="row">
-            <div class="col col-md-12">
-                    <div>
-                        <h2 class="text-center" style="color:#e69c5c">Applications</h2>
-                    </div>
-                </div>
-            </div>
-        <div class="row">
-            <div class="col col-xs-12">
-                <div class="service-grids clearfix">
-                    <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/food-processing-industry.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
-                        <h4><a href="#">Food processing industries</a></h4>
-                    </div>
-                    <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/manufacturig-industruy.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
-                        <h4><a href="#">Manufacturing industries</a></h4>
-                    </div>
-                    <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/import-and-exprt-commercial-organization.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
-                        <h4><a href="#">Import and export commercial organizations</a></h4>
-                    </div>
-                    <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/pharmaceutical.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
-                        <h4><a href="#">Pharmaceutical industries</a></h4>
-                    </div>
-                    <div class="grid design-grid">
-                        <img src="assets/images/app-icon/warehouse/Bulk-storage-of-goods.png" class="img-fluid" alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
-                        <h4><a href="#">Bulk storage of goods</a></h4>
-                    </div>
-                </div>
-            </div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <p>Their customizable enclosures are constructed with durable materials and can be tailored to meet the specific needs of a range of industries, including manufacturing, telecommunications and automation. Mekark's focus on quality, efficiency, and customization make them a trusted partner for businesses seeking reliable industrial enclosure solutions.</p>
+            <h2>Industrial enclosures Benefits:</h2>
+            <ul  class="about-cnt" style="list-style-type: disc;">
+                <li>Industrial enclosures offer protection against a range of hazards, including dust, debris, moisture, and electromagnetic interference. This can help prevent damage to equipment and machinery, as well as reduce downtime and maintenance costs.</li>
+                <li>Liftable enclosures can be designed with locks and other security features to protect against theft and vandalism, providing added peace of mind for businesses.</li>
+                <li>Glass wool insulation is non-combustible and can help prevent the spread of fire in a building, enhancing safety and security.</li>
+                <li>Modular enclosures can be customized to meet the specific needs of a business, with features such as ventilation, insulation, and access points designed to meet the requirements of the equipment being housed.</li>
+                <li>Industrial enclosures are typically constructed with durable materials, such as steel or aluminum, which can withstand harsh environments and extreme weather conditions.</li>
+                <li>It can help businesses meet regulatory requirements, such as those related to safety and environmental protection.</li>
+            </ul>
         </div>
-    </div> <!-- end container -->
-</section>
-<!-- end service-section -->
+    </div>
+</div>
+
+        <!-- ---------- End Start Section -------->
 
 
         <!-- ------ Start Gallery ----------->
@@ -164,12 +142,12 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                         <div class="own-gallery">
                         <?php
                         
-                            $images = glob("assets/images/gallery/products/warehous" . "/*.jpg");
+                            $images = glob("assets/images/gallery/products/industrial-enclouser" . "/*.jpg");
                             foreach($images as $image)
                             {?>
                                 <div class="item">
                                     <a href=<?php echo $image ?> data-lightbox="mygallery" data-title="First-Image">
-                                        <img src=<?php echo $image ?> alt="Warehouse Shed Manufacturer in Chennai | Warehouse Shed Contractors in Chennai - Mekark">
+                                        <img src=<?php echo $image ?> alt="MEP Consultant, MEP Contractors - Mekark">
                                     </a>
                                 </div>
                             <?php
@@ -182,8 +160,8 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             </div>
         <!-- ------ End Gallery ----------->
 
-    <!-- faq -->
-    <section class="faq-pg-section section-padding">
+        <!-- ------ Faq ----------->
+        <section class="faq-pg-section section-padding">
         <div class="container">
             <div class="row">
                 <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
@@ -199,55 +177,55 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                     <div class="panel-group faq-accordion theme-accordion-s1" id="accordion">
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1" aria-expanded="true">What is a warehouse shed?</a>
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1" aria-expanded="true">What is MEP?</a>
                             </div>
                             <div id="collapse-1" class="panel-collapse collapse in">
                                 <div class="panel-body">
-                                    <p>A warehouse shed is a standalone structure designed to provide additional storage space for a variety of items. It is commonly used in industries such as manufacturing, logistics, agriculture, and construction to store inventory, equipment, machinery, and other items that need to be protected from the elements.</p>
+                                    <p>MEP stands for Mechanical, Electrical, and Plumbing systems that are integral to building design and construction.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-2">How long does it take to assemble a warehouse shed?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-2">What MEP services does Mekark offer?</a>
                             </div>
                             <div id="collapse-2" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>The assembly time for a warehouse shed can vary depending on its size, complexity, and the expertise of the assembly team. However, most warehouse sheds are designed to be easy to assemble and can be put together in a matter of days.</p>
+                                    <p>Mekark offers a wide range of MEP services, including design and detailing, consulting, construction, project management, and maintenance.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-3">How durable are warehouse sheds?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-3">How does Mekark ensure the quality of its MEP services?</a>
                             </div>
                             <div id="collapse-3" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>Warehouse sheds made from metal or steel are known for their durability and can last for many years with proper maintenance. They are resistant to weather damage, pests, and fire, making them a popular choice for businesses that require a long-term storage solution.</p>
+                                    <p>We have a rigorous quality assurance process that includes regular testing and inspection to ensure that our MEP systems meet all safety regulations and standards.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-4">How much do warehouse shed cost?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-4">Does Mekark provide MEP services for residential buildings?</a>
                             </div>
                             <div id="collapse-4" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>The cost of a warehouse shed can vary depending on its size, materials used, and customization options. However, warehouse sheds are generally considered to be a cost-effective storage solution compared to other types of permanent structures. At Mekark Company, we offer affordable and competitive prices for our warehouse sheds.</p>
+                                    <p>Yes, we provide MEP services for residential, commercial, and industrial buildings.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-5">What is the process for ordering a warehouse shed from Mekark Company?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-5">How can I contact Mekark for MEP services?</a>
                             </div>
                             <div id="collapse-5" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>At Mekark Company, we have a streamlined process for ordering a warehouse shed. Customers can contact us with their specific needs and requirements, and we will provide a free quote based on their specifications. Once the order is confirmed, our team will design and manufacture the warehouse shed and deliver it to the customer's site for assembly. </p>
+                                    <p>You can contact us by phone, email, or through our website to learn more about our MEP services and schedule a consultation with one of our experts.</p>
                                 </div>
                             </div>
                         </div>
@@ -256,20 +234,17 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             </div>    
         </div>
     </section>
-    <!-- faq -->
 
-
-
-
-
+        <!-- ------ Faq ----------->
+        
         <!-- start site-footer -->
-                <!-- start cta-section -->
-        <section class="cta-section">
+               <!-- start cta-section -->
+               <section class="cta-section">
             <div class="container">
                 <div class="row">
                     <div class="col col-lg-6 col-md-6">
                         <div class="cta-text">
-                            <h3>Looking for Warehouse Shed</h3>
+                            <h3>Looking for Industrial Enclosures</h3>
                         </div>
                     </div>
                     <div class="col col-lg-5 col-lg-offset-1 col-md-6">

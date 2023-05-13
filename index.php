@@ -20,7 +20,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 
     <meta name="google-site-verification" content="rAR_zUhuNvAl7JlZMsxLNFSyu6LjvFxhoRmk9LWLOnI" />
         <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
-    <title>Industrial Manufacturing Company Chennai - Mekark</title>
+    <title>Industrial Manufacturing Company India - Mekark</title>
     <meta name="description" content="Mekark is always at the forefront of the industry, ensuring that its customers receive best products and services possible. Call us Today." />
     <link rel="canonical" href="https://www.mekark.com/" />
     

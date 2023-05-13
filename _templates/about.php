@@ -18,7 +18,7 @@
                     <div class="col col-md-6">
                         <div class="right-col">
                             <div class="img-holder home-about">
-                                <img src="assets/images/about.png" alt="Industrial Manufacturing Company Chennai - Mekark">
+                                <img src="assets/images/about.png" alt="Industrial Manufacturing Company India - Mekark">
                             </div>
                         </div>
                     </div>

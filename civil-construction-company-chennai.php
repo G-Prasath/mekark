@@ -150,7 +150,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                 </div>
                 <div class="col-md-6">
                     <div class="res-img">
-                        <img src="assets/images/products/commercial.png" alt="Building Civil Construction Company Chennai - Mekark"="" class="img-fluid">
+                        <img src="assets/images/products/commercial.png" alt="Building Civil Construction Company ChennaiIndustrial Manufacturing Company India - Mekark" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -171,7 +171,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
             <div class="row">
                 <div class="col-md-6">
                     <div class="res-img">
-                        <img src="assets/images/products/industrial.png" alt="Building Civil Construction Company Chennai - Mekark"="" class="img-fluid">
+                        <img src="assets/images/products/industrial.png" alt="Building Civil Construction Company ChennaiIndustrial Manufacturing Company India - Mekark" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6">
