@@ -19,10 +19,10 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="rAR_zUhuNvAl7JlZMsxLNFSyu6LjvFxhoRmk9LWLOnI" />
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
-    <title> Pre-Engineered Building Manufacturer Company Chennai - Mekark</title>
+    <title> Pre-Engineered Building Manufacturer - Mekark</title>
 <meta name="description" content="Mekark is the manufacturers specialist, wide selection of Pre Engineered Metal and Steel Building components." />
 <meta name="keywords" content="Pre-Engineered Building Manufacturer Company Chennai, Pre-Engineered Building Manufacturer Company, Pre-Engineered Building Manufacturer, PEB, Pre-Engineered Building, Mekark, Chennai" />
-<link rel="canonical" href="https://www.mekark.com/pre-egineered-building-manufacturer-company-chennai/" />
+<link rel="canonical" href="https://www.mekark.com/pre-egineered-building-manufacturer/" />
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

@@ -20,8 +20,8 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 
     <meta name="google-site-verification" content="rAR_zUhuNvAl7JlZMsxLNFSyu6LjvFxhoRmk9LWLOnI" />
         <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
-    <title>MEP Consultant, MEP Contractors - Mekark</title>
-    <meta name="description" content=" Mekark is one of the Master of MEP Construction and consultant in chennai, to ensure your project is optimized for efficiency, safety, and sustainability.” />
+    <title>MEP Consultant Chennai | MEP Contractors Chennai- Mekark</title>
+    <meta name="description" content=" Mekark is one of the Master of MEP Construction and consultant in chennai, to ensure your project is optimized for efficiency, safety, and sustainability." />
     <meta name="keywords" content="MEP Consultant, MEP Contractors, MEP Construction, MEP Services, Mekark " />
     <link rel="canonical" href="https://www.mekark.com/mep-consultant-chennai/" />
 

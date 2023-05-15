@@ -145,7 +145,26 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                                 <h4>Warehouse Constructions</h4>
                                 <p>Mekark is a leading warehouse shed manufacturer, offering durable and customized solutions for storage and distribution facilities.</p>
                                 <a href="warehouse-shed-manufacturer-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
-                            </div>                            
+                            </div>         
+                            
+                            <div class="grid">
+                                <img src="assets/images/gallery/Sep-Products/Industrial-shed.png" alt="Industrial Manufacturing Company India - Mekark">
+                                <h4>Industrial Shed</h4>
+                                <p> Mekark Structure Pvt Ltd's Multi Level car parking System is a modern solution that maximizes parking capacity while reducing space requirements and time.</p>
+                                <a href="multi-level-car-parking-system-manufacturer-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
+                            </div>
+                            <div class="grid">
+                                <img src="assets/images/gallery/Sep-Products/Factory-building.png" alt="Industrial Manufacturing Company India - Mekark">
+                                <h4>Factory Buildings</h4>
+                                <p> Mekark Structure Pvt Ltd's Multi Level car parking System is a modern solution that maximizes parking capacity while reducing space requirements and time.</p>
+                                <a href="multi-level-car-parking-system-manufacturer-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
+                            </div>
+                            <div class="grid">
+                                <img src="assets/images/gallery/Sep-Products/prefab-industrial-enclosure.png" alt="Industrial Manufacturing Company India - Mekark">
+                                <h4>Industrial Enclosures</h4>
+                                <p> Mekark Structure Pvt Ltd's Multi Level car parking System is a modern solution that maximizes parking capacity while reducing space requirements and time.</p>
+                                <a href="multi-level-car-parking-system-manufacturer-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
+                            </div>
                         </div>
                 </div>
             </div>
