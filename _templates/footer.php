@@ -59,8 +59,8 @@
                                 </div>
                                 <ul>
                                     <li>15,62nd street, Ashok Nagar, Chennai-600083</li>
-                                    <li><span>Phone:</span> +91 97909 24754</li>
-                                    <li><span>Email:</span> admin@mekark.com</li>
+                                    <li><span>Phone:</span> <a href="tel:9790924754">+91 97909 24754</a></li>
+                                    <li><span>Email:</span> <a href="mailto:admin@mekark.com">admin@mekark.com</a></li>
                                 </ul>
                             </div>
                         </div>

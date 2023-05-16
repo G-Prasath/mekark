@@ -2314,10 +2314,23 @@ img {
 /*--------------------------------------------------------------
 	#header-style-1
 --------------------------------------------------------------*/
-.header-style-1, .header-style-2, .header-style-3 {
+
+.service-link-widget > ul > li > a{           /* TODO  */
+    text-decoration: none;
+    color: #545050;
+}
+.contact-info > div > p > a{        /*TODO*/
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+
+/* .header-style-1, .header-style-2, .header-style-3 {
 
   
-}
+} */
 
 @media screen and (min-width: 992px) {
   .header-style-1, .header-style-2, .header-style-3 {
@@ -2459,7 +2472,7 @@ img {
 
 .header-style-1 .search-contact .call i, .header-style-2 .search-contact .call i, .header-style-3 .search-contact .call i {
   position: absolute;
-  left: 30px;
+  left: 40px;
 }
 
 .header-style-1 .search-contact .call i:before, .header-style-2 .search-contact .call i:before, .header-style-3 .search-contact .call i:before {
@@ -2492,6 +2505,11 @@ img {
 /*--------------------------------------------------------------
 	#header-style-2
 --------------------------------------------------------------*/
+.call > h5 > a{
+  text-decoration: none;
+  color: #1b5865;
+}
+
 @media screen and (min-width: 992px) {
   .header-style-2, .header-style-3 {
     position: relative;

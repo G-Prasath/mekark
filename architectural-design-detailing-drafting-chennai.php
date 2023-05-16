@@ -522,12 +522,12 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                             <div>
                                 <i class="fi flaticon-call"></i>
                                 <h4>Call us</h4>
-                                <p>+91 97909 24754</p>
+                                <p><a href="tel:9790924754">+91 97909 24754</a></p>
                             </div>
                             <div>
                                 <i class="fi flaticon-contact"></i>
                                 <h4>Email us</h4>
-                                <p>admin@mekark.com</p>
+                                <p><a href="mailto:admin@mekark.com">admin@mekark.com</a></p>
                             </div>
                         </div>
                     </div>

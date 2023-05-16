@@ -92,7 +92,7 @@
                         <div class="contact">
                             <div class="call">
                                 <i class="fi flaticon-call"></i>
-                                <h5>+91 97909 24754</h5>
+                                <h5><a href="tel:9790924754">+91 97909 24754</a></h5>
                             </div>
                         </div>
                     </div>
