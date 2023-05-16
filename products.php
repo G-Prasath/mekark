@@ -151,19 +151,19 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                                 <img src="assets/images/gallery/Sep-Products/Industrial-shed.png" alt="Industrial Manufacturing Company India - Mekark">
                                 <h4>Industrial Shed</h4>
                                 <p>Mekark, the top manufacturer of Industrial structures, application for Chemical industry and Manufacturing companies.</p>
-                                <a href="multi-level-car-parking-system-manufacturer-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
+                                <a href="peb-industrial-shed-supplier" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
                                 <img src="assets/images/gallery/Sep-Products/Factory-building.png" alt="Industrial Manufacturing Company India - Mekark">
                                 <h4>Factory Buildings</h4>
                                 <p>Mekark being the top Factory building manufacturers provide to complete solution for Factory production plants.</p>
-                                <a href="multi-level-car-parking-system-manufacturer-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
+                                <a href="factory-building-manufacturer" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
                                 <img src="assets/images/gallery/Sep-Products/prefab-industrial-enclosure.png" alt="Industrial Manufacturing Company India - Mekark">
                                 <h4>Industrial Enclosures</h4>
                                 <p>Mekark Industrial Enclosures Manufacturer India, is used for Food Processing, Dairy / Beverage and Automation Control.</p>
-                                <a href="multi-level-car-parking-system-manufacturer-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
+                                <a href="industrial-enclosures-acoustic-manufacturer" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                         </div>
                 </div>

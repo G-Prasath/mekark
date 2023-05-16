@@ -20,10 +20,10 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 
 <meta name="google-site-verification" content="rAR_zUhuNvAl7JlZMsxLNFSyu6LjvFxhoRmk9LWLOnI" />
 <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
-<link rel="canonical" href="https://www.mekark.com/prefabricated-factory-building-manufacturer"/>
-<title> Prefabricated Factory Buildings Manufacturer | Mekark  </title> 
-<meta name="description" content="Mekark Prefabricated Factory Buildings Manufacturer and Supplier provide factory steel building, modular metal factory building in India."/>
-<meta name="keywords" content="Prefabricated Factory Buildings Manufacturer, Prefabricated Factory Buildings, Prefabricated Factory Shed Buildings Manufacturer, Prefabricated Factory Shed Buildings Manufacturer"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="canonical" href="https://www.mekark.com/factory-building-manufacturer"/>
+<title> Factory Buildings Manufacturer | Mekark  </title> 
+<meta name="description" content="Mekark Pre-Engineered Factory Buildings Manufacturer and Supplier provide factory steel building, modular metal factory building in India."/>
+<meta name="keywords" content="Pre-Engineered Factory Buildings Manufacturer, Prefabricated Factory Buildings, Prefabricated Factory Shed Buildings Manufacturer, Prefabricated Factory Shed Buildings Manufacturer"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 
     
     <link href="assets/css/themify-icons.css" rel="stylesheet">

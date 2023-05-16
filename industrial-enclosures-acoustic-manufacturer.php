@@ -21,7 +21,7 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 <meta name="google-site-verification" content="rAR_zUhuNvAl7JlZMsxLNFSyu6LjvFxhoRmk9LWLOnI" />
 <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
 <link rel="canonical" href="https://www.mekark.com/industrial-enclosures-acoustic-manufacturer"/>
-<title>Industrial Enclosures Acoustic Manufacturer | Mekark Prefab  </title> 
+<title>Industrial Enclosures Acoustic Manufacturer | Mekark PEB  </title> 
 <meta name="description" content="Mekark is the best Industrial Enclosures Acoustic manufacturer and supplier offer deliver high quality industrial enclosure solutions."/>
 <meta name="keywords" content="Industrial Enclosures Acoustic Manufacturer, Industrial Enclosures Acoustic Supplier India, Mekark"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 

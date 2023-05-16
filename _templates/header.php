@@ -51,7 +51,7 @@
                                     <li><a href="pre-egineered-building-manufacturer-company-chennai">Pre-Engineered Building</a></li>
                                     <li><a href="warehouse-shed-manufacturer-chennai">Warehouse Shed </a></li>
                                     <li><a href="peb-industrial-shed-supplier">Industrial Shed</a></li>
-                                    <li><a href="prefabricated-factory-building-manufacturer">Factory Buildings</a></li>
+                                    <li><a href="factory-building-manufacturer">Factory Buildings</a></li>
                                     <li><a href="industrial-enclosures-acoustic-manufacturer">Industrial Enclosures</a></li>
                                     <li><a href="multi-storey-building-manufacturer">Multi-Storey Steel Building</a></li>
                                     <li><a href="mep-consultant-chennai">MEP</a></li>
