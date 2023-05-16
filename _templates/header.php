@@ -69,15 +69,6 @@
                                     <li><a href="storage-parts-equipment-accessories">Storage Unit</a></li>
                                 </ul>
                             </li>
-
-                            <!-- <li class="menu-item-has-children">
-                                <a href="#">Projects</a>
-                                <ul class="sub-menu">
-                                    <li><a href="gallery.php">Gallery</a></li>
-                                    <li><a href="video.php">Videos</a></li>
-                                </ul>
-                            </li> -->
-
                             <li class="menu-item-has-children">
                                 <a href="#">Insights</a>
                                 <ul class="sub-menu">

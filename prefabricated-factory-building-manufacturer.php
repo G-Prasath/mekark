@@ -215,55 +215,55 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                     <div class="panel-group faq-accordion theme-accordion-s1" id="accordion">
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1" aria-expanded="true"> What types of multi-storey buildings can Mekark manufacture?</a>
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1" aria-expanded="true">What is the factory building?</a>
                             </div>
                             <div id="collapse-1" class="panel-collapse collapse in">
                                 <div class="panel-body">
-                                    <p>Mekark has experience of manufacturing a wide range of multi-storey buildings, including residential, commercial, industrial, and institutional structures. Our team of experts can work with you to design and fabricate a building that meets your specific needs.</p>
+                                    <p>A factory building is a structure specifically designed and constructed to house industrial operations and manufacturing processes. It serves as a dedicated space where goods are produced, assembled, or processed. Factory buildings can vary in size and layout, ranging from small-scale facilities to large industrial complexes.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-2">What materials does Mekark use for multi-storey building construction?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-2">What materials are commonly used in factory building construction?</a>
                             </div>
                             <div id="collapse-2" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>Mekark uses a variety of materials, including steel, concrete and wood, to construct multi-storey buildings. We select materials based on the specific requirements of each project, including factors such as cost, durability and environmental impact.</p>
+                                    <p>Factory buildings are often constructed using steel or metal alloys due to their strength, durability and flexibility in design. These materials offer cost-effectiveness, resistance to environmental factors and the ability to support heavy loads.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-3">Can Mekark provide custom multi-storey building solutions?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-3">What services do factory building manufacturers offer?</a>
                             </div>
                             <div id="collapse-3" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>Yes, Mekark specializes in providing custom multi-storey building solutions that are tailored to meet the unique needs of each project. Our team of designers, engineers, and fabricators work closely with clients to develop customized solutions that meet their specific requirements.</p>
+                                    <p>Mekark offer a range of services including design, fabrication and construction of customized factory buildings. We also provide project management, site preparation and installation services to ensure a comprehensive solution.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-4">What is the timeline for a multi-storey building project with Mekark?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-4">How can choose the right factory building manufacturer?</a>
                             </div>
                             <div id="collapse-4" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>The timeline for a multi-storey building project with Mekark varies depending on the scope and complexity of the project. Our team will work with you to establish a realistic timeline based on your project requirements, and we will strive to meet all dead lines and deliver the project on time and within budget.</p>
+                                    <p>When selecting a factory building manufacturer, consider their experience, reputation, expertise in your industry, portfolio of past projects, ability to meet customization needs and overall project management capabilities.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-5">Does Mekark offer installation services for multi-storey buildings?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-5">What does a factory building serve?</a>
                             </div>
                             <div id="collapse-5" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>Yes, Mekark offers installation services for multi-storey buildings. Our experienced installation team will work closely with you to ensure that the building is installed safely, efficiently, and to your exact specifications.</p>
+                                    <p>When selecting a factory building manufacturer, consider their experience, reputation, expertise in your industry, portfolio of past projects, ability to meet customization needs and overall project management capabilities.</p>
                                 </div>
                             </div>
                         </div>

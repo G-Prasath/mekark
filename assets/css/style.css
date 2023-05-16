@@ -1470,8 +1470,10 @@ img {
 } */
 
 .home-about > img{
-  width: 100%;
-  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
 }
 
 .blog-sidebar .about-widget .img-holder {
@@ -1564,7 +1566,8 @@ img {
   float: left;
 }
 .img-holder img{
-  height: 450px;
+  height: 300px;
+  margin-top: 50px;
 }
 .blog-img-holder img{
   height: 68px;
@@ -1572,6 +1575,79 @@ img {
 .blog-sidebar .recent-post-widget .post .img-holder img {
   border-radius: 50%;
 }
+/* -------- Anime -------------  */
+
+.image-hotspot{
+  max-width: 100%;
+  margin:  50px auto 0px auto;
+  position: relative;
+}
+.image-hotspot > img{
+  max-width: 100%;
+}
+
+
+.h-icon{
+  width: 14px;
+  height: 14px;
+  border-radius: 100%;
+  border: 2.5px solid #ff0000;
+  background: #fff;
+  cursor: pointer;
+}
+.h-icon::after{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1.1);
+  pointer-events: none;
+  content: "";
+  display: block;
+  width: 23px;
+  height: 23px;
+  border-radius: 100%;
+  border: .5px solid #000;
+  transition: border-color 0.5s linear;
+  animation: icon-pulse 4s linear infinite;
+}
+
+@keyframes icon-pulse{
+  0%{
+    transform: translate(-50%, -50%) scale(1,1);
+    opacity: 0;
+  }
+  20%{
+    transform: translate(-50%, -50%) scale(1.5,1.5);
+    opacity: 0.9;
+  }
+  50%{
+    transform: translate(-50%, -50%) scale(2,2);
+    opacity: 0;
+  }
+  100%{
+    transform: translate(-50%, -50%) scale(2,2);
+    opacity: 0;
+  }
+}
+
+.h-item{
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+.result{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  padding-top: 25px;
+  font-size: 26px;
+
+}
+
+
+
+
 
 
 .blog-sidebar .recent-post-widget .post .details {
@@ -2426,7 +2502,8 @@ img {
   .header-style-3 .search-contact .call h5,
   .header-style-2 .search-contact .open-btn,
   .header-style-3 .search-contact .open-btn {
-    color: #131e4a;
+    color: #1b5865;
+    font-weight: 600;  /*TODO*/
   }
   .header-style-2 .search-contact, .header-style-3 .search-contact {
     height: 110px;

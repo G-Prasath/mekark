@@ -164,7 +164,19 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
 
     </script>
 
-
+        <script>
+          $(document).ready(function(){
+            $(".h-icon").mouseover(function(){
+              var fin = $(this).attr("class").split(" ");
+              var final = fin[1].replace(/-/g, ' ')
+              $(".result").html(final);
+            });
+            
+            $(".h-icon").mouseout(function(){
+              $(".result").html(" ");
+            });
+          });
+        </script>
 
 
 <script>

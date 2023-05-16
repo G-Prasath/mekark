@@ -177,55 +177,44 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                     <div class="panel-group faq-accordion theme-accordion-s1" id="accordion">
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1" aria-expanded="true">What is MEP?</a>
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1" aria-expanded="true">What is an Industrial Enclosure?</a>
                             </div>
                             <div id="collapse-1" class="panel-collapse collapse in">
                                 <div class="panel-body">
-                                    <p>MEP stands for Mechanical, Electrical, and Plumbing systems that are integral to building design and construction.</p>
+                                    <p>An Industrial Enclosure is a protective structure or housing designed to enclose and safeguard equipment, machinery, or processes in industrial settings. It provides a controlled environment that protects sensitive components from external elements such as dust, moisture, temperature fluctuations, and physical damage. Industrial enclosures can be made of various materials, including metal, plastic or composite materials, depending on the specific application and environmental conditions.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-2">What MEP services does Mekark offer?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-2">what is the use of Industrial Enclosure?</a>
                             </div>
                             <div id="collapse-2" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>Mekark offers a wide range of MEP services, including design and detailing, consulting, construction, project management, and maintenance.</p>
+                                    <p>Industrial enclosures are used to Home electronic components, equipment and devices.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-3">How does Mekark ensure the quality of its MEP services?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-3">What are enclosure materials?</a>
                             </div>
                             <div id="collapse-3" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>We have a rigorous quality assurance process that includes regular testing and inspection to ensure that our MEP systems meet all safety regulations and standards.</p>
+                                    <p>Painted carbon steel, stainless steel 304, stainless steel 316, fiberglass reinforced polyester and polycarbonate.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-4">Does Mekark provide MEP services for residential buildings?</a>
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-4">What is known as enclosure?</a>
                             </div>
                             <div id="collapse-4" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    <p>Yes, we provide MEP services for residential, commercial, and industrial buildings.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-5">How can I contact Mekark for MEP services?</a>
-                            </div>
-                            <div id="collapse-5" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p>You can contact us by phone, email, or through our website to learn more about our MEP services and schedule a consultation with one of our experts.</p>
+                                    <p>enclosure is also spelled Inclosure, the division or consolidation of communal fields.</p>
                                 </div>
                             </div>
                         </div>
