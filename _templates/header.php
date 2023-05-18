@@ -54,8 +54,8 @@
                                     <li><a href="factory-building-manufacturer">Factory Buildings</a></li>
                                     <li><a href="industrial-enclosures-acoustic-manufacturer">Industrial Enclosures</a></li>
                                     <li><a href="multi-storey-building-manufacturer">Multi-Storey Steel Building</a></li>
-                                    <li><a href="mep-consultant-chennai">MEP</a></li>
                                     <li><a href="civil-construction-company-chennai">Civil Construction</a></li>
+                                    <li><a href="mep-consultant-chennai">MEP</a></li>
                                     <li><a href="architectural-design-detailing-drafting-chennai">Design Services</a></li>
                                     <li><a href="multi-level-car-parking-system-manufacturer-company-chennai">Multi Level Car Parking System</a></li>
                                 </ul>
