@@ -6,6 +6,7 @@
                             <div class="contact-info">
                                 <ul>
                                     <li><i class="ti-email"></i><a href="mailto:admin@mekark.com">admin@mekark.com</a></li>
+                                    <li class="mobile-num"><i class="fa fa-phone"></i><a href="tel:9790924754">+91 97909 24754</a></li>
                                 </ul>
                             </div>
                         </div>

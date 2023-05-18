@@ -250,15 +250,6 @@ body {
 }
 
 /*Left Side Buttons End*/
-
-
-
-
-
-
-
-
-
 p {
   /* color: #777777; */
   line-height: 1.8em;
@@ -1924,6 +1915,15 @@ img {
 /*--------------------------------------------------------------
 #0.3	header
 --------------------------------------------------------------*/
+.mobile-num{
+  display: none;
+}
+@media screen and (max-width:1200px) {
+  .mobile-num{
+    display: block;
+  }
+}
+
 .site-header {
   /* navigation open and close btn hide for width screen */
   /* style for navigation less than 992px */
