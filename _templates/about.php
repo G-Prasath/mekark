@@ -11,7 +11,7 @@
                             
                             <div class="btns">
                                 <a href="products" class="theme-btn">Our Products</a>
-                                <a href="contact-us" class="theme-btn-s3">Contact with us</a>
+                                <a href="contact-us" class="theme-btn-s3">Contact us</a>
                             </div>
                         </div>
                     </div>

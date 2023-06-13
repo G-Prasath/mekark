@@ -99,68 +99,68 @@ window["ga-disable-G-VMB7H19YPQ"] = true;
                     <div class="col col-xs-12">
                     <div class="service-grids clearfix profile item-box tab-show" id="products">
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/Pre-Engineered-Building.png" alt>
+                                <img src="assets/images/gallery/Sep-Products/Pre-Engineered-Building.jpg" alt>
                                 <h4>Pre-Engineered Building</h4>
                                 <p>Mekark is a leading pre-engineered building manufacturer, with efficient and customizable steel structures for commercial and industrial sectors.</p>
                                 <a href="pre-egineered-building-manufacturer-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/Multi-Storey-Steel-Building.png" alt>
+                                <img src="assets/images/gallery/Sep-Products/Multi-Storey-Steel-Building.jpg" alt>
                                 <h4>Multi-Storey Steel Building</h4>
                                 <p>Mekark is a reputable multi-storey building manufacturer, specializing in design and construction of innovative and sustainable structures.</p>
                                 <a href="multi-storey-building-manufacturer-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/mep.png" alt>
+                                <img src="assets/images/gallery/Sep-Products/mep.jpg" alt>
                                 <h4>MEP</h4>
                                 <p>Mekark offers top-notch mechanical, plumbing, and engineering services, providing cost-effective and energy-efficient solutions for clients.</p>
                                 <a href="mep-consultant-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/civilconstruction.png" alt>
+                                <img src="assets/images/gallery/Sep-Products/civilconstruction.jpg" alt>
                                 <h4>Civil Construction</h4>
                                 <p>Mekark provides comprehensive civil construction building services, delivering quality and timely solutions for infrastructure and building projects.</p>
                                 <a href="civil-construction-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/designservices.png" alt>
+                                <img src="assets/images/gallery/Sep-Products/designservices.jpg" alt>
                                 <h4>Design Services</h4>
                                 <p>Mekark offers innovative architectural, design, and detailing services, creating visually stunning and functional spaces for clients.</p>
                                 <a href="architectural-design-detailing-drafting-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/Prefabricated-Structures.png" alt>
+                                <img src="assets/images/gallery/Sep-Products/Prefabricated-Structures.jpg" alt>
                                 <h4>Prefabricated Structure</h4>
                                 <p>Mekark is a trusted prefabricated building manufacturer, producing durable and customizable structures for various applications, from Industrial and commercial use.</p>
                                 <a href="prefabricated-building-manufacturer-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/mlcp.png" alt>
+                                <img src="assets/images/gallery/Sep-Products/mlcp.jpg" alt>
                                 <h4>Multi Level Car Parking System</h4>
                                 <p>Mekark provides efficient and space-saving multi-level car parking solutions, utilizing advanced technology and design for optimal functionality.</p>
                                 <a href="multi-level-car-parking-system-manufacturer-company-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/warehouse.png" alt>
+                                <img src="assets/images/gallery/Sep-Products/warehouse.jpg" alt>
                                 <h4>Warehouse Constructions</h4>
                                 <p>Mekark is a leading warehouse shed manufacturer, offering durable and customized solutions for storage and distribution facilities.</p>
                                 <a href="warehouse-shed-manufacturer-chennai" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>         
                             
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/Industrial-shed.png" alt="Industrial Manufacturing Company India - Mekark">
+                                <img src="assets/images/gallery/Sep-Products/Industrial-shed.jpg" alt="Industrial Manufacturing Company India - Mekark">
                                 <h4>Industrial Shed</h4>
                                 <p>Mekark, the top manufacturer of Industrial structures, application for Chemical industry and Manufacturing companies.</p>
                                 <a href="peb-industrial-shed-supplier" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/Factory-building.png" alt="Industrial Manufacturing Company India - Mekark">
+                                <img src="assets/images/gallery/Sep-Products/Factory-building.jpg" alt="Industrial Manufacturing Company India - Mekark">
                                 <h4>Factory Buildings</h4>
                                 <p>Mekark being the top Factory building manufacturers provide to complete solution for Factory production plants.</p>
                                 <a href="factory-building-manufacturer" class="read-more">Read More <i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="grid">
-                                <img src="assets/images/gallery/Sep-Products/prefab-industrial-enclosure.png" alt="Industrial Manufacturing Company India - Mekark">
+                                <img src="assets/images/gallery/Sep-Products/prefab-industrial-enclosure.jpg" alt="Industrial Manufacturing Company India - Mekark">
                                 <h4>Industrial Enclosures</h4>
                                 <p>Mekark Industrial Enclosures Manufacturer India, is used for Food Processing, Dairy / Beverage and Automation Control.</p>
                                 <a href="industrial-enclosures-acoustic-manufacturer" class="read-more">Read More <i class="fi flaticon-next"></i></a>

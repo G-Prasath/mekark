@@ -577,18 +577,6 @@
                 msg: "Please select your contact subject",
                 resume: "Please Choose Your Resume"
             },
-
-            // submitHandler: function (form) {
-            //     $.ajax({
-            //         type: "POST",
-            //         url: "career-mail.php",
-            //         data: $('#career-enquiry').serialize(),
-            //         beforeSend: function() {
-            //           window.location.href = "thank-you";
-            //         }
-            //     });
-            //     return false; 
-            // }
             submitHandler: function(form) {
                 form.submit();
               }
